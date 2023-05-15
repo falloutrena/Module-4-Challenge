@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #timer {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  #question {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  #choices {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-bottom: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  #end-screen {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #score {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  #initials-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  #submit-button {
+    padding: 5px 10px;
+    font-size: 16px;
+  }
+  
